@@ -1,3 +1,3 @@
 # DWM-GUI-docs
 
-<a href="./Index.html">Framework Overview</a>
+<a href="./index.html">Framework Overview</a>
