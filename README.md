@@ -1,5 +1,6 @@
 # GUI-DOCS
-Partial documention for DWM-REactiveUI framework.
+Partial documention for DWM-ReactiveUI framework.
 
-Browse at: 
+
+Browse this at: 
 https://nhrones.github.io/GUI-DOCS/
